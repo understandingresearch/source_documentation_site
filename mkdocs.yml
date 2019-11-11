@@ -1,0 +1,17 @@
+site_name: Understanding Research
+
+nav:
+    - Home: index.md
+    - Research: research_en.md
+    - Methodology: methodology_en.md
+    - Knowledge Translation: knowledge_translation_en.md
+    
+    
+theme: mkdocs
+
+
+plugins:
+    - search:
+        lang: en
+        
+        
