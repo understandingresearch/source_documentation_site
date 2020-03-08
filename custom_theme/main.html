@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block next_prev %}
+{% endblock %} 
+<!-- removes the next/prev buttons from theme navigation-->
+
+{% block libs %}
+    {{ super() }}
+	<script src="{{ base_url }}/js/jquery.cookie.js" defer></script>
+    <script src="{{ base_url }}/js/jquery.cookiecuttr.js" defer></script>
+{% endblock %}
+<!-- extends the js libraries included with theme -->
+<!-- they are deferred so that the libraries are executed in the correct order, do not reorder or remove defer -->
+
+
+{% block scripts %}
+	{{ super() }}
+	<script src="{{ base_url }}/js/cookie_notice_for_gdpr.js" defer></script>
+{% endblock %}
+<!-- adds a js script for the banner to alert users to use of cookies for gdpr -->

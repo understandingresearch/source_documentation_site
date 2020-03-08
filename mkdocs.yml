@@ -1,17 +1,36 @@
 site_name: Understanding Research
 
+site_description: Understanding Research provides an introduction to basic research concepts like research ethics, patient-oriented research, and research methods - including quantitative, qualitative, and mixed methods study designs. Our goal is to help research stakeholders such as patients, managers, and clinicians develop a shared language to facilitate the success of health research initiatives and the participatory research process.
+
+copyright:  Copyright 2020 Understanding Research - content available for use under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Public License Attribution-NonCommercial-ShareAlike 4.0 International</a>
+
 nav:
     - Home: index.md
     - Research: research_en.md
-    - Methodology: methodology_en.md
+    - Literature Reviews: literature_reviews_en.md
+    - Methodology: 
+        - Methodology Overview: methodology_en.md
+        - Quantitative Research: methodology/quantitative_research_en.md
+        - Qualitative Research: methodology/qualitative_research_en.md
+        - Mixed Methods Research: methodology/mixed_methods_research_en.md
+        - Participatory Research: methodology/participatory_research_en.md
+        
     - Knowledge Translation: knowledge_translation_en.md
+    - Français: http://comprendrelarecherche.github.io/
+   
+theme:
+    name: mkdocs
+    custom_dir: custom_theme/ #the code in the custom_theme/main.html file is for overriding the prev/next buttons in the navigation of the template theme
+    #there are custom js libraries and a script for the cookie alert banner for gdpr
+    #do not replace the jquery.cookie.js file with the newer version because it won't work with the cookiecuttr gdpr overlay
     
+extra_css: #this is also for the cookie notice banner
+    - css/cookiecuttr.css
     
-theme: mkdocs
-
-
+google_analytics: ['UA-158939469-1', 'understandingresearch.github.io']
+    
 plugins:
     - search:
         lang: en
-        
-        
+
+use_directory_urls: false #This setting is to prevent html referenced image links from breaking on non-Index pages. All page URLs will end in .html as a result
