@@ -25,3 +25,7 @@ The stakeholders in the partnership must **make decisions together** in at least
 
 ## References
 Green LW, Royal Society of Canada, BC Consortium for Health Promotion Research. Study of participatory research in health promotion: Review and recommendations for the development of participatory research in health promotion in Canada. 1995. Royal Society of Canada. 
+
+## Additional resources
+
+* **<a href="https://engageplus.org/en/" target="_blank">engageplus.org</a>** : Website with the objective of reducing barriers between university research and community members
