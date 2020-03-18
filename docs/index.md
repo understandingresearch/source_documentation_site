@@ -5,7 +5,7 @@ The **Understanding Research** platform aims to help people understand the basic
 **Research literacy** is defined as being sufficiently familiar with scientific ethics and methods to understand basic research concepts (knowledge), respect research ethics (attitude), and communicate with researchers and research participants (behavior). This definition is adapted from Nebeker and López-Arenas (2016).
 
 ## Who this platform is for
-**Understanding Research** is intended for patients, managers, clinicians and any other stakeholders interested in research and collaboration with researchers.
+**Understanding Research** is intended for patients, managers, clinicians and any other stakeholders interested in research and collaboration with researchers. 
 
 ## Why we created this platform
 * Help stakeholders understand and use a common research language
