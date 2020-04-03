@@ -1,9 +1,9 @@
-## Literature reviews
+# Literature reviews
 Research is based on existing knowledge and is expected to fill knowledge gaps. Therefore, any research project begins with (is based on) a **literature review**. A literature review aims to summarize, combine, analyze, comment or critique existing publications on a given topic. 
 Nowadays, literature reviews represent a large portion of the scientific literature published and consulted by the scientific and non-scientific community. Also, systematic reviews are used to enable decision-making based on the best available evidence. 
 
 
-### Purpose of literature reviews
+## Purpose of literature reviews
 
 * ​Draw a portrait of a given topic
 * Identify questions or aspects of the topic that require more research​ (knowledge gaps)
@@ -12,7 +12,7 @@ Nowadays, literature reviews represent a large portion of the scientific literat
 * Keep up to date on a given topic
 
 
-### Main types of literature reviews
+## Main types of literature reviews
 There are several types of literature reviews. The two main types are traditional and systematic.
 
 | Traditional review | Systematic review |
@@ -28,7 +28,7 @@ To increase scientific rigour, researchers have been interested in developing me
 
 At the other extreme, there is systematic review, which is one of the most rigorous types of review. Here, the method is clear and various strategies are used to increase scientific rigour. 
 
-### Systematic review
+## Systematic review
 A **systematic review** is a type of literature review that uses explicit and systematic methods to identify, select, evaluate and analyze studies in order to answer a specific review question.​ For example, researchers will search different databases and other sources to ensure that they find all the relevant studies. Also, there will be very clear selection criteria and two people (independent reviewers) will be involved in all stages of the review to avoid possible selection bias. 
 
 
@@ -39,7 +39,7 @@ Characteristics of a systematic review:
 * explicit
 * comprehensive
 
-### Other types of reviews
+## Other types of reviews
 | | |
 | ------------- |-------------|
 | **Rapid review** | Review produced for decision-makers that need an answer​ quickly; may simplify or omit certain steps of the systematic review ​ ​|
@@ -49,7 +49,7 @@ Characteristics of a systematic review:
 **Thank you for helping us improve this section by completing <a href="https://forms.gle/zCwtfp9WhaQqbiEM6" target="_blank">a short survey</a>.**
 
 
-## How to read a research article
+# How to read a research article
 The volume of research articles is ever-growing and can be overwhelming. They can be organized in three big groups:
 
 * Primary research: original studies
@@ -68,7 +68,7 @@ To recognize research articles, you can look for format and characteristics uniq
 | Abstract | Results | Funding |
 | Keywords | Discussion | |
 
-### Components of a research article
+## Components of a research article
 In the following table, each component of an article is explained:
 
 | Component | Explanation |
@@ -91,7 +91,7 @@ Reading an article may take a very long time at first and require reading it man
 
 **Thank you for helping us improve this section by completing <a href="https://forms.gle/tZA5BaCaRjjUhoFR9" target="_blank">a short survey</a>.**
 
-### Additional resources
+## Additional resources
 * **<a href="https://www.youtube.com/watch?v=egJlW4vkb1Y" target="_blank">What are systematic reviews?</a>**: a video from Cochrane explaining why systematic reviews are important and how they are done. 
 
 * **<a href="https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b_5501628?guccounter=1" target="_blank">How to read and understand a scientific paper: A step-by-step guide for non-scientists</a>**: an article
